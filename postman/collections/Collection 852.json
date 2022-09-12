@@ -1,0 +1,74 @@
+{
+	"info": {
+		"_postman_id": "148d40ab-4a86-460c-be20-e55671adc04a",
+		"name": "Docs",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "23242491-148d40ab-4a86-460c-be20-e55671adc04a"
+	},
+	"item": [
+		{
+			"name": "Folder 1",
+			"item": [
+				{
+					"name": "Another folder",
+					"item": [],
+					"id": "95b47018-0435-47e1-8865-39a6ddf8df36"
+				},
+				{
+					"name": "request 852",
+					"id": "d42fd6e8-85b1-40ed-86ac-66687cf47bea",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
+				}
+			],
+			"id": "f346f76a-9a33-4653-aaa1-ad4afd12884f"
+		},
+		{
+			"name": "request 2",
+			"id": "2e36b738-855d-47ef-af61-887c509f13fa",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "example.com",
+					"host": [
+						"example",
+						"com"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "request 2 Copy",
+			"id": "14af0afc-d5e0-42f0-9935-44aee9ebcad2",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "example.com",
+					"host": [
+						"example",
+						"com"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
